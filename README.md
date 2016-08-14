@@ -17,8 +17,12 @@ Andrea Mycroft, Steven Chiu, Zhao Li, Jash Mehta, Arianna Keeling
 
 
 # 3D Models
+I've included the 3D models on my github https://github.com/aoben10/Automated-clothes-folding-device
+<br> </br>
+
+<br> *Coming soon: Images, Demo video*</br>
 
 # Motivation
-This project was created as part of a senior design project in mechanical engineering, Spring 2016
+This project was born out of a our disdain for folding clothes, and a desire to automate the process. It was showcased during the GT capstone design expo Spring 2016.
 
 
