@@ -2,6 +2,9 @@
 Ever get tired of folding your own clothes? Yeah so do we. Stake Folder is an Arduino-based automated clothes folding device which can fold
 clothes (mostly t-shirts) at the push of a button.
 
+======
+
+
 Released: May 01, 2016
 
 Source code / 3D models: https://github.com/aoben10/Automated-clothes-folding-device 
@@ -9,6 +12,8 @@ Source code / 3D models: https://github.com/aoben10/Automated-clothes-folding-de
 Unit Cost: ~ $500
 
 Status: Operational, open source, open hardware.
+
+======
 
 **Live Demonstration** of StakeFolder 1.0 
 
