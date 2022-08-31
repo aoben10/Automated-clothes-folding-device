@@ -17,7 +17,7 @@ Status: Operational, open source, open hardware.
 
 **Live Demonstration** of StakeFolder 1.0 
 
-[![Video Link](https://cloud.githubusercontent.com/assets/12980868/17755929/e11be8dc-64aa-11e6-91f3-e6bf6dd40f3c.png)](https://drive.google.com/open?id=0B-yaLOybWB_4M0YxNEpIM0dTRDQ)
+[![Video Link](https://cloud.githubusercontent.com/assets/12980868/17755929/e11be8dc-64aa-11e6-91f3-e6bf6dd40f3c.png)](https://drive.google.com/file/d/0B-yaLOybWB_4M0YxNEpIM0dTRDQ/view?usp=sharing&resourcekey=0-DmJelOKamSQU8_TvWlf0bg)
 
 ***
 
